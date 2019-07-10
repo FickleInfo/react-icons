@@ -1,0 +1,42 @@
+{
+  "name": "@fickleinfo/react-icons",
+  "version": "0.1.0",
+  "private": false,
+  "description": "A React JS package to use Icons from different Icons provider with single installation.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir  build --copy-files "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FickleInfo/react-icons.git"
+  },
+  "author": "FickleInfo Pvt. Ltd.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FickleInfo/react-icons/issues"
+  },
+  "homepage": "https://github.com/FickleInfo/react-icons#readme",
+  "peerDependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0"
+  },
+  "dependencies": {},
+  "keywords": [
+    "react-icons",
+    "fontawesome-icons",
+    "icon-react",
+    "simpleline-icons",
+    "material-icon",
+    "svg-icons",
+    "font-icons",
+    "icons"
+  ]
+}
