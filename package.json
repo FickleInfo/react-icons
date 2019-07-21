@@ -1,6 +1,6 @@
 {
   "name": "@fickleinfo/react-icons",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": false,
   "description": "A React JS package for the different types of icons library.",
   "main": "build/index.js",
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/FickleInfo/react-icons/issues"
   },
-  "homepage": "https://github.com/FickleInfo/react-icons#readme",
+  "homepage": "https://fickleinfo.github.io/fickle-icons/",
   "peerDependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.3"

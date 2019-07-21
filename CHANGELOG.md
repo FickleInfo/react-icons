@@ -1,4 +1,4 @@
-## Changelog
+  ## Changelog
 
 All notable changes to this project will be documented in this file.
 
@@ -14,8 +14,6 @@ Added
 
 Changed
 - Updated the README.md file
-
-------------
 
 
 0.1.0 - 2019-07-11 - Minor

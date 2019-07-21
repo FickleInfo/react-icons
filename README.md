@@ -28,7 +28,7 @@ npm install  @fickleinfo/react-icons
 ## Demo
 Find the `@fickleinfo/react-icons` demo here. 
 
-> [Https://Github.Com/Fickleinfo/Fickle-Icons](Https://Github.Com/Fickleinfo/Fickle-Icons "Https://Github.Com/Fickleinfo/Fickle-Icons")
+> [https://fickleinfo.github.io/fickle-icons/](https://fickleinfo.github.io/fickle-icons/ "https://fickleinfo.github.io/fickle-icons/")
 
 Search the icons from different provider and simply copy and paste the HTML code in your project.
 
